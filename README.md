@@ -5,11 +5,11 @@ The system utilizes a Raspberry Pi 4 as the central processing unit, which proce
 
 # Technologies-Used
 
-Python
-OpenCV
-OpenCV DNN
-SSD MobileNet
-TensorFlow
-Numpy
-Raspberry Pi
-Rpi.GPIO
+- Python
+- OpenCV
+- OpenCV DNN
+- SSD MobileNet
+- TensorFlow
+- Numpy
+- Raspberry Pi
+- Rpi.GPIO
